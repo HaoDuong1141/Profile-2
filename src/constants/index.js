@@ -282,12 +282,12 @@ export const benefits = [
     },
     {
         id: "5",
-        title: "Company Landing Page",
-        text: "General company landing page with gradient, custom fonts, and clean UI/UX using NextJS",
+        title: "Pokedex",
+        text: "Simple pokemon searcher with basic pokemon stats using React and PokiAPI",
         backgroundUrl: "./src/assets/benefits/card-6.svg",
         iconUrl: benefitIcon2,
         imageUrl: benefitImage2,
-        link: "https://landing-page-six-pi-10.vercel.app/",
+        link: "https://pokedex-nine-sigma.vercel.app/",
     },
 ];
 
